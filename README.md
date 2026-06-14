@@ -16,8 +16,8 @@
 
 ---
 
-### 🚀 About Me
-
+### 🚀 Introduction
+     
 * 🧠 **What I Do:** I work on small projects while constantly learning and practicing to grow my skills in building full-scale, secure software applications.
 * 🛡️ **Current Goal:** Continuously developing my technical skills to bridge the gap between software development and cybersecurity.
 * 👥 **Community:** Active member of my university's tech and cybersecurity clubs, collaborating with peers and taking on real-world learning challenges.

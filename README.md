@@ -1,6 +1,6 @@
 # 🚀 Welcome to my Profile! I'm Maraki Belete
 <p align="center">
-  🎓 Second-Year Computer Science Student @ Hawassa University • 
+  🎓 Third-Year Computer Science Student @ Hawassa University • 
   <br>
   🛡️ Aspiring Security Specialist
   <br>

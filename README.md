@@ -34,8 +34,6 @@ Here are the core languages I have studied and the tech tools I am actively expl
   <!-- Languages I Know Well -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
-  <!-- Language I am Mastering -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 #### 🔹 Learning & Exploring
@@ -46,6 +44,9 @@ Here are the core languages I have studied and the tech tools I am actively expl
   <!-- Databases and Version Control -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <!-- Language I am Mastering -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
 </p>
 
 

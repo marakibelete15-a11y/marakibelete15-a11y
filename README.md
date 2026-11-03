@@ -36,8 +36,7 @@ Here are the core languages I have studied and the tech tools I am actively expl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
 
   <!-- Cybersecurity Tools -->
-  <img src="https://raw.githubusercontent.com/dashboard-icons/dashboard-icons/main/svg/burpsuite.svg" alt="Burp Suite" width="40" height="40"/> &nbsp;
-</p>
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="40" height="40"/> &nbsp;
 
 
 #### 🔹 Learning & Exploring

@@ -49,7 +49,7 @@ Here are the core languages I have studied and the tech tools I am actively expl
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <!-- Language I am Mastering -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
+<img src="https://raw.githubusercontent.com/mandiant/Ghidra/master/Ghidra/Features/Base/src/main/resources/images/GhidraIcon256.png" alt="Ghidra" width="40" height="40"/> &nbsp;
 </p>
 
 

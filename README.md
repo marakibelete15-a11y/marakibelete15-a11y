@@ -50,6 +50,7 @@ Here are the core languages I have studied and the tech tools I am actively expl
     <!-- Language I am Mastering -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/mandiant/Ghidra/master/Ghidra/Features/Base/src/main/resources/images/GhidraIcon256.png" alt="Ghidra" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GhidraIcon256.png" alt="Ghidra" width="40" height="40"/>
 </p>
 
 

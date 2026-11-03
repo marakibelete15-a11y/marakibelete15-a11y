@@ -31,10 +31,14 @@ Here are the core languages I have studied and the tech tools I am actively expl
 
 #### 🔹 Core Toolkit
 <p align="left">
-  <!-- Languages I Know Well -->
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;
+
+  <!-- Cybersecurity Tools -->
+  <img src="https://raw.githubusercontent.com/dashboard-icons/dashboard-icons/main/svg/burpsuite.svg" alt="Burp Suite" width="40" height="40"/> &nbsp;
 </p>
+
 
 #### 🔹 Learning & Exploring
 <p align="left">
